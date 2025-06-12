@@ -1,0 +1,18 @@
+{
+    "module": "summary",
+    "input": "ERR5770802.fasta",
+    "input_md5": "d957654359c90d0f0f3909ae6ea7c727",
+    "start_time": "2025-06-11T01:29:56.880436+07:00",
+    "parameters": {
+        "min_score": 0.7,
+        "max_fdr": 0.1,
+        "min_number_genes": 1,
+        "min_plasmid_hallmarks": 0,
+        "min_plasmid_hallmarks_short_seqs": 1,
+        "min_virus_hallmarks": 0,
+        "min_virus_hallmarks_short_seqs": 1,
+        "min_plasmid_marker_enrichment": 0.1,
+        "min_virus_marker_enrichment": 0.0,
+        "max_uscg": 4
+    }
+}

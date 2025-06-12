@@ -1,0 +1,28 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+NODE_77_length_8858_cov_219.470736	8858	DTR	13	11	0.9991	0.0009	0	7.8746	NA	NA
+NODE_66_length_15166_cov_29.835561	15166	No terminal repeats	16	11	0.9990	0.0009	0	5.5919	NA	NF000466
+NODE_69_length_13569_cov_24.930888	13569	No terminal repeats	10	11	0.9989	0.0010	0	5.4475	NA	NA
+NODE_74_length_10626_cov_28.450138	10626	No terminal repeats	8	11	0.9988	0.0010	0	1.9385	NA	NA
+NODE_50_length_27797_cov_25.809469	27797	No terminal repeats	36	11	0.9988	0.0011	0	0.9923	NA	NA
+NODE_75_length_9133_cov_27.253054	9133	No terminal repeats	10	11	0.9986	0.0011	0	0.9918	NA	NA
+NODE_105_length_3871_cov_27.342949	3871	No terminal repeats	3	11	0.9986	0.0012	0	1.6954	NA	NA
+NODE_49_length_28078_cov_31.357912	28078	No terminal repeats	25	11	0.9984	0.0012	0	2.5736	NA	NA
+NODE_95_length_5337_cov_24.302495	5337	No terminal repeats	4	11	0.9980	0.0013	0	2.6447	NA	NA
+NODE_59_length_17237_cov_27.901110	17237	No terminal repeats	17	11	0.9980	0.0014	0	1.6366	NA	NA
+NODE_100_length_4600_cov_13.662419	4600	No terminal repeats	6	11	0.9974	0.0015	0	0.4581	NA	NA
+NODE_19_length_62145_cov_28.857928	62145	No terminal repeats	57	11	0.9953	0.0018	0	10.5830	NA	NA
+NODE_33_length_41783_cov_48.087935	41783	No terminal repeats	41	11	0.9895	0.0024	0	2.3590	NA	NF033135
+NODE_54_length_25484_cov_25.077927	25484	No terminal repeats	25	11	0.9878	0.0031	0	3.0870	NA	NA
+NODE_96_length_5287_cov_24.262403	5287	No terminal repeats	6	11	0.9695	0.0049	0	1.7708	NA	NA
+NODE_12_length_79562_cov_28.368679	79562	No terminal repeats	76	11	0.9540	0.0075	1	4.3995	T_virB9	NA
+NODE_45_length_30846_cov_30.442788	30846	No terminal repeats	31	11	0.9180	0.0119	0	4.6584	NA	NA
+NODE_23_length_56099_cov_31.075216	56099	No terminal repeats	50	11	0.9171	0.0158	0	4.6545	NA	NF033135
+NODE_118_length_2547_cov_27.788017	2547	No terminal repeats	6	11	0.9157	0.0194	0	1.1698	NA	NA
+NODE_94_length_5530_cov_26.396632	5530	No terminal repeats	4	11	0.9065	0.0231	0	0.8907	NA	NA
+NODE_101_length_4405_cov_25.202197	4405	No terminal repeats	4	11	0.8946	0.0271	0	0.9821	NA	NA
+NODE_98_length_4925_cov_25.217174	4925	No terminal repeats	8	11	0.8906	0.0308	0	1.8984	NA	NA
+NODE_113_length_2699_cov_58.404743	2699	ITR	4	11	0.8862	0.0344	0	0.7392	NA	NF040806
+NODE_47_length_30619_cov_22.654893	30619	No terminal repeats	25	11	0.8313	0.0400	0	1.3055	NA	NA
+NODE_27_length_52348_cov_25.455928	52348	No terminal repeats	52	11	0.7714	0.0476	0	0.3942	NA	NA
+NODE_90_length_6593_cov_28.646458	6593	No terminal repeats	7	11	0.7554	0.0551	0	1.0724	NA	NA
+NODE_86_length_7307_cov_16.711699	7307	No terminal repeats	9	11	0.7438	0.0626	0	0.4052	NA	NA

@@ -1,0 +1,17 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+NODE_52_length_4585_cov_181.788200	4585	No terminal repeats	6	11	0.9991	0.0009	1	5.3633	MOBQ	NA
+NODE_49_length_5799_cov_141.300034	5799	No terminal repeats	7	11	0.9991	0.0009	0	1.7183	NA	NA
+NODE_57_length_3253_cov_9.186500	3253	DTR	4	11	0.9990	0.0009	0	2.9727	NA	NA
+NODE_45_length_8986_cov_35.464048	8986	No terminal repeats	11	11	0.9988	0.0010	0	2.4194	NA	NF000466
+NODE_40_length_12916_cov_28.315036	12916	No terminal repeats	10	11	0.9988	0.0010	0	2.8198	NA	NA
+NODE_33_length_28458_cov_32.710706	28458	No terminal repeats	26	11	0.9981	0.0012	0	7.5550	NA	NA
+NODE_41_length_12696_cov_28.645079	12696	No terminal repeats	15	11	0.9979	0.0013	0	2.1587	NA	NA
+NODE_62_length_2734_cov_2.327580	2734	No terminal repeats	4	11	0.9975	0.0015	0	1.2113	NA	NA
+NODE_37_length_20242_cov_30.434651	20242	No terminal repeats	17	11	0.9951	0.0018	0	2.1659	NA	NA
+NODE_64_length_2686_cov_33.886284	2686	No terminal repeats	3	11	0.9943	0.0022	0	1.5689	NA	NA
+NODE_1_length_242150_cov_34.945588	242150	No terminal repeats	232	11	0.9919	0.0027	1	18.1053	T_virB9	NF033135
+NODE_29_length_45228_cov_45.814550	45228	No terminal repeats	47	11	0.9516	0.0066	0	4.0983	NA	NF033135
+NODE_63_length_2697_cov_60.724125	2697	No terminal repeats	4	11	0.8917	0.0144	0	0.7392	NA	NF040806
+NODE_47_length_7934_cov_33.312796	7934	No terminal repeats	6	11	0.8854	0.0215	0	0.5067	NA	NA
+NODE_65_length_2485_cov_443.470314	2485	No terminal repeats	3	11	0.8399	0.0308	1	1.4636	F_traE	NA
+NODE_32_length_30202_cov_31.336392	30202	No terminal repeats	29	11	0.8048	0.0411	0	1.2808	NA	NA
