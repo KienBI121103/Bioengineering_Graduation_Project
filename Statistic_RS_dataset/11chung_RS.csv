@@ -1,0 +1,14 @@
+﻿,,Fluoroquinolones,,Aminoglycosides,Polymyxin B,Chloramphenicol,,Tetracycline,Sulfonamides,β-lactam,,3rd G. cephalosporins,,,,4th G. cephalosporins,Carbapenems,,
+,,Ciprofloxacin,Levofloxacin,Amikacin,Colistin,Chloramphenicol,Fosfomycin,Tigecyclin,Trimethoprim/Sulfamethoxazol,Piperacillin,Piperacillin/Tazobactam,Cefotaxime,Ceftazidime,Ceftazidime/Avibactam ,Ceftolozane/Tazobactam,Cefepime,Imipenem,Meropenem,Eratapenem
+No,Commn Name,CIP,LEV,AMK,COL,CMP,FOS,TGC,T/S,PIP,PIT,CTX,CAZ,CAA,CTA,CEP,IMP,MER,ERT
+1,ERR5770797,R,R,R,S,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+2,ERR5770798,R,R,R,S,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+3,ERR5770799,R,R,R,S,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+4,ERR5770800,R,R,R,S,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+5,ERR5770801,R,R,R,S,R,R,R,S,R,R,R,R,R,R,R,R,R,R
+6,ERR5770802,R,R,R,S,R,R,I,R,R,R,R,R,R,R,R,R,R,R
+7,ERR5770803,R,R,R,S,R,R,R,R,R,R,R,R,R,R,R,R,R,R
+8,ERR5770804,S,S,S,S,R,R,S,R,S,S,I,S,S,S,S,S,S,S
+9,ERR5770805,R,R,S,S,R,R,S,S,R,R,R,R,R,R,R,R,R,R
+10,ERR5770806,R,R,R,S,R,R,I,R,R,R,R,R,R,R,R,R,R,R
+11,ERR5770807,R,R,R,S,R,R,R,R,R,R,R,R,R,R,R,R,R,R
